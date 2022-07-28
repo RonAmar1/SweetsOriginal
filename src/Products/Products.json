@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1,
+    "img": "./images/cake1.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },
+  {
+    "id": 2,
+    "img": "./images/cake2.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },
+  {
+    "id": 3,
+    "img": "./images/cake3.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },
+ {
+    "id": 4,
+    "img": "./images/cake4.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },
+ {
+    "id": 5,
+    "img": "./images/cake6.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },
+  {
+    "id": 6,
+    "img": "./images/cake6.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 7,
+    "img": "./images/cake7.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 8,
+    "img": "./images/cake8.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 9,
+    "img": "./images/cake9.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 10,
+    "img": "./images/cake10.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 11,
+    "img": "./images/cake11.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 12,
+    "img": "./images/cake12.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 13,
+    "img": "./images/cake13.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 14,
+    "img": "./images/cake14.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 15,
+    "img": "./images/cake15.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 16,
+    "img": "./images/cake16.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 17,
+    "img": "./images/cake17.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },{
+    "id": 18,
+    "img": "./images/cake18.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cakes"
+  },
+  {
+    "id": 19,
+    "img": "./images/dessert1.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  },
+   {
+    "id": 20,
+    "img": "./images/dessert2.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 21,
+    "img": "./images/dessert3.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 22,
+    "img": "./images/dessert4.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 23,
+    "img": "./images/dessert5.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 24,
+    "img": "./images/dessert6.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 25,
+    "img": "./images/dessert7.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 26,
+    "img": "./images/dessert8.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 27,
+    "img": "./images/dessert9.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 28,
+    "img": "./images/dessert10.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 29,
+    "img": "./images/dessert11.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  }, {
+    "id": 30,
+    "img": "./images/dessert12.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  },
+  {
+    "id": 31,
+    "img": "./images/dessert13.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  },{
+    "id": 32,
+    "img": "./images/dessert14.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  },{
+    "id": 33,
+    "img": "./images/dessert15.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  },{
+    "id": 34,
+    "img": "./images/dessert16.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Desserts"
+  },
+  {
+    "id": 35,
+    "img": "./images/cookie1.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },
+  {
+    "id": 36,
+    "img": "./images/cookie2.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 37,
+    "img": "./images/cookie3.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 38,
+    "img": "./images/cookie4.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 39,
+    "img": "./images/cookie5.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 40,
+    "img": "./images/cookie6.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 41,
+    "img": "./images/cookie7.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 42,
+    "img": "./images/cookie8.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 43,
+    "img": "./images/cookie9.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 44,
+    "img": "./images/cookie10.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 45,
+    "img": "./images/cookie11.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  },{
+    "id": 46,
+    "img": "./images/cookie12.jpg",
+    "title": "Birthday Cake - for Her",
+    "price": "250 $",
+    "category":"Cookies"
+  }
+]

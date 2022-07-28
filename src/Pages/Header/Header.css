@@ -1,0 +1,106 @@
+.header {
+    background-color: #FFB4B4;
+    box-sizing: content-box;
+    
+
+}
+.body {
+        background-color:#FFB4B4;
+}
+
+.header h1 {
+    font-family: "Copperplate";
+    font-weight: 400;
+    font-style: italic;
+    font-display: fallback;
+    font-size: 60px;
+    width: 50vw;
+    max-width: 1000px;
+    margin: 1rem auto;
+    align-items: center;
+    align-items: center;
+    color: #CA4E79;
+    height: 40px;
+}
+hr.new1 {
+    border-top: 1px solid #CA4E79 ;
+    font-family: "IBM Plex Sans";
+        font-weight: 700;
+        font-style: normal;
+        font-display: fallback;
+        font-size: 15px;
+        width: 17vw;
+        max-width: 1000px;
+        margin: 1rem auto;
+        align-items: center;
+        align-items: center;
+        color: #660b2b;
+}
+.header h4 {
+    font-family: "IBM Plex Sans";
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback;
+    font-size: 15px;
+    width: 17vw;
+    max-width: 1000px;
+    margin: 1rem auto;
+    align-items: center;
+    color: #660b2b;
+}
+.alllines {
+    padding: 0 50px 0px;
+    box-sizing: content-box;
+    text-align: center;
+    width: 65px;
+
+}
+.headline{
+margin-left: 500px;
+box-sizing: content-box;
+    width: 65px;
+    padding: 5px;
+
+
+}
+.navbar a{
+    border-radius: 10%;
+        color: #fefefe;
+            -webkit-transition: none;
+            -moz-transition: none;
+            transition: none;
+            text-align: center;
+
+}
+.navbar a:hover {
+
+    background-color: #CA4E79;
+  
+}
+cart-icon {
+    position: relative;
+}
+
+.cart-icon img {
+        margin-top: -50%;
+     margin-left: 60%;
+    width: 40px;
+    height: auto;
+    position: right;
+}
+
+.cart-icon .badge {
+    margin-top: -50%;
+        margin-left: 100%;
+    display: block;
+    width: 18px;
+    height: 18px;
+    background-color: black;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    top: -3px;
+    right: -10px;
+}
