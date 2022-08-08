@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Components/Header/Header";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Home from "./Components/Home/Home";
 import Contact from "./Components/Contact/Contact";
 import Cart from "./Components/Cart/Cart";
@@ -14,21 +14,21 @@ import { useEffect } from "react";
 const allCategories = ["All", ...new Set(cakes.map((item) => item.category))];
 
 function App() {
-  const { products } = cake;
+  // const { products } = cake;
   const [cartItems, setCartItems] = useState([]);
   const [arrInit, setArrInit] = useState([]);
   const [menuItem, setMenuItem] = useState([]);
   const [badge, setBadge] = useState(0);
 
-  useEffect(() => {
-    fetch("http://localhost:5000/Products")
-      .then((res) => res.json())
-      .then((Products) => {
-        setMenuItem(Products);
-        console.log(menuItem);
-        setArrInit(Products);
-      });
-  }, []);
+  // useEffect(() => {
+  //   fetch("http://localhost:5000/Products")
+  //     .then((res) => res.json())
+  //     .then((Products) => {
+  //       setMenuItem(Products);
+  //       console.log(menuItem);
+  //       setArrInit(Products);
+  //     });
+  // }, []);
 
   const onAdd = (product) => {
     const exist = cartItems.find((x) => x.id === product.id);
@@ -83,7 +83,8 @@ function App() {
   return (
     // <div>
     // </div>
-    <Router>
+    // <Router>
+    <div>
       <Header badge={badge} />
       <Routes>
         <Route exact path="/" element={<Home />} />
@@ -100,19 +101,19 @@ function App() {
               cartItems={cartItems}
             />
           }
-        ></Route>
+        />
         <Route
           path="/Cart"
           element={
             <Cart cartItems={cartItems} onAdd={onAdd} onRemove={onRemove} />
           }
-        ></Route>
+        />
 
-        {/* <Route exact path="/Filter" element={<Filter />} /> */}
         <Route exact path="/contact" element={<Contact />} />
-        {/* <Route exact path="/Cart" element={<Cart />} /> */}
+        <Route exact path="/Cart" element={<Cart />} />
       </Routes>
-    </Router>
+      {/* </Router> */}
+    </div>
   );
 }
 
