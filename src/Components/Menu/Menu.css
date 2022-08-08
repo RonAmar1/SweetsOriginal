@@ -1,19 +1,20 @@
-.body{
-        background-color: #FFB4B4;
+.body {
+    background-color: #FFB4B4;
 
 }
+
+
 .productslist {
     display: inline-flex;
     width: 90vw;
     max-width: 1170px;
-    margin: 10rem auto;
-   gap: 0.1rem;
-    display: flex;
+    gap: 0.1rem;
     align-items: center;
     justify-content: center;
     flex-direction: row;
     position: relative;
-    margin: 50px auto;
+    margin: 100px auto;
+    margin-top: 15px;
     padding: 80px 0 0;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
@@ -22,6 +23,7 @@
     flex-wrap: wrap;
     background: #FFB4B4;
 }
+
 .product {
     background: #bd7979;
     border-radius: 0.5rem;
@@ -50,33 +52,23 @@
 .btn {
     color: #fefefe;
     text-align: center;
-    
+
 }
 
 
 .btn2:hover {
     background-color: #CA4E79;
 }
+
 .heads {
-        margin-top: -10%;
- 
-    }
+    margin-top: -1%;
+    color: #660b2b;
+    lighting-color: #660b2b;
 
-.heads h1 {
-    /* border-top: 1px solid #CA4E79; */
-        font-family: "IBM Plex Sans";
-        border-radius: 20%;
-        font-weight: 300;
-        font-style: normal;
-        font-display: fallback;
-        font-size:45px;
-        width: 50vw;
-        max-width: 100%;
-        margin: 1rem auto;
-        text-align: center;
-        align-items: center;
-        color: #660b2b;
+}
 
+.p {
+    margin-left: 50px;
 }
 
 

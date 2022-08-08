@@ -1,6 +1,5 @@
 import React from "react";
-import "./Products.css";
-import Nav from "react-bootstrap/Nav";
+import "./Menu/Menu.css";
 
 function Button({ button, filter }) {
   return (

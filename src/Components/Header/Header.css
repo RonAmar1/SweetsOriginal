@@ -33,7 +33,6 @@ hr.new1 {
         max-width: 1000px;
         margin: 1rem auto;
         align-items: center;
-        align-items: center;
         color: #660b2b;
 }
 .header h4 {
@@ -55,11 +54,10 @@ hr.new1 {
     width: 65px;
 
 }
-.headline{
+.cart{
 margin-left: 500px;
 box-sizing: content-box;
-    width: 65px;
-    padding: 5px;
+width: 65px;
 
 
 }
@@ -77,10 +75,7 @@ box-sizing: content-box;
     background-color: #CA4E79;
   
 }
-cart-icon {
-    position: relative;
-}
-
+/* 
 .cart-icon img {
         margin-top: -50%;
      margin-left: 60%;
@@ -103,4 +98,4 @@ cart-icon {
     position: relative;
     top: -3px;
     right: -10px;
-}
+} */

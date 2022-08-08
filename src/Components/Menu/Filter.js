@@ -1,6 +1,6 @@
 import { useState } from "react";
 import items from "./Products.json";
-import "./Products.css";
+import "./Menu.css";
 import Button from "./Botton";
 import Menu from "./Menu";
 import React, { Component } from "react";
@@ -14,6 +14,7 @@ export default class Filter extends Component {
     );
   }
 }
+
 const allCategories = ["All", ...new Set(items.map((item) => item.category))];
 console.log(allCategories);
 
